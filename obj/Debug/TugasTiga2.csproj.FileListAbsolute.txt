@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\TugasTiga2\TugasTiga2\bin\Debug\TugasTiga2.exe.config
+C:\Users\ACER\source\repos\TugasTiga2\TugasTiga2\bin\Debug\TugasTiga2.exe
+C:\Users\ACER\source\repos\TugasTiga2\TugasTiga2\bin\Debug\TugasTiga2.pdb
+C:\Users\ACER\source\repos\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.Form1.resources
+C:\Users\ACER\source\repos\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.Properties.Resources.resources
+C:\Users\ACER\source\repos\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.exe
+C:\Users\ACER\source\repos\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.pdb
